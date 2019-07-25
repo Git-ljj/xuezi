@@ -1,0 +1,7 @@
+<h2>检索用户</h2>
+
+<form method="get" action="/user/detail">
+	编号：<input type="text" name="uid"><br>
+	<input type="submit">
+	<a href="user_update.html">用户修改</a>
+</form>

@@ -1,0 +1,11 @@
+<h2>修改用户</h2>
+
+<form method="get" action="/user/update">
+	编号：<input type="text" name="uid"><br>
+	邮箱：<input type="text" name="uid"><br>
+	手机：<input type="text" name="uid"><br>
+	电话：<input type="text" name="uid"><br>
+	姓名：<input type="text" name="uid"><br>
+	性别：<input type="text" name="uid"><br>
+	<input type="submit">
+</form>

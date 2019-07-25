@@ -1,0 +1,7 @@
+<h2>删除</h2>
+<form method="get" action="/product/delete">
+商品编号：<input type="text" name="lid"><br>
+<input type="submit">
+</form>
+
+
